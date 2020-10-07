@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RagsWebApp", "RagsWebApp\RagsWebApp.csproj", "{AE28B610-D240-4D9E-ACF7-8A87E1BB5A3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE28B610-D240-4D9E-ACF7-8A87E1BB5A3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE28B610-D240-4D9E-ACF7-8A87E1BB5A3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE28B610-D240-4D9E-ACF7-8A87E1BB5A3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE28B610-D240-4D9E-ACF7-8A87E1BB5A3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBE8BB2D-8AAE-488F-BD17-E36C6F9D172A}
+	EndGlobalSection
+EndGlobal
